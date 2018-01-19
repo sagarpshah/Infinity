@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/sagarpshah/Infinity"
   s.license          = 'MIT'
   s.author           = { "SagarShah" => "sagar.shah@dynamicelements.no" }
-  s.source           = { :git => "https://github.com/sagarpshah/Infinity.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/sagarpshah/Infinity.git" }
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
